@@ -1,96 +1,121 @@
 {
-    "movies": [{
-            "title": "Dangal",
-            "year": "2016",
-            "genres": [
-                "Action",
-                "Biography",
-                "Drama"
-            ],
-            "contentRating": "",
-            "duration": "161  Mins",
-            "releaseDate": "2016-12-23",
-            "averageRating": 0,
-            "originalTitle": "",
-            "seats": "100",
-            "timing": "12pm - 3pm",
-            "storyline": "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (52 kg).                Written by\nDibyayan_Chakravorty",
-            "actors": [
-                "Aamir Khan",
-                "Sakshi Tanwar",
-                "Fatima Sana Shaikh"
-            ],
-            "imdbRating": 8.9,
-            "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
-        }, {
-            "title": "Kapoor & Sons",
-            "year": "2016",
-            "genres": [
-                "Comedy",
-                "Drama",
-                "Romance"
-            ],
-            "contentRating": "",
-            "duration": "132  Mins",
-            "releaseDate": "2016-03-17",
-            "averageRating": 0,
-            "originalTitle": "",
-            "seats": "100",
-            "timing": "12pm - 3pm",
-            "storyline": "A story revolving around a dysfunctional family of 2 brothers who visit their family and discover that their parents marriage is on the verge of collapse,the family is undergoing a financial crunch and much more as the drama unfolds.",
-            "actors": [
-                "Sidharth Malhotra",
-                "Fawad Khan",
-                "Alia Bhatt"
-            ],
-            "imdbRating": 7.8,
-            "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NDk4MTIwNl5BMl5BanBnXkFtZTgwNDEwODI5NzE@._V1_SY500_SX350_AL_.jpg"
-        }, {
-            "title": "Airlift",
-            "year": "2016",
-            "genres": [
-                "Action",
-                "Drama",
-                "History"
-            ],
-            "contentRating": "",
-            "duration": "130 Mins",
-            "releaseDate": "2016-01-22",
-            "averageRating": 0,
-            "originalTitle": "",
-            "seats": "100",
-            "timing": "12pm - 3pm",
-            "storyline": "It is in this scenario that Ranjit Katyal (played by Akshay Kumar), a wealthy and powerful Indian businessman, who has always seen himself as a Kuwaiti, rather than an Indian, realizes that he no longer wields any influence on the Iraqis, and that he and his family are in as much danger as anyone else. Ranjit unknowingly becomes the man who all 170,000 Indians look up to for getting them out safely from Kuwait. Airlift is the story of Indians stranded in Kuwait during this traumatic time. A story of how they, with the help of Ranjit Katyal, managed to survive the Iraqi invasion, and against all odds traveled a thousand kilometers across the border into Amman, Jordan. From Amman, 170,000 Indians were brought home by the largest and the most successful evacuation ever attempted by any country, in the history of the world. Over 59 days, the Indian government systematically flew over 488 Air India commercial flights into a war zone to evacuate all 170,000 Indians and safely bring them ...                Written by\nT-Series",
-            "actors": [
-                "Akshay Kumar",
-                "Nimrat Kaur",
-                "Kumud Mishra"
-            ],
-            "imdbRating": 8.3,
-            "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGE1ZTZhNmQtYzhmNC00MjE4LTg4NDUtY2I4N2Y3OTgwZjljXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY435_SX300_AL_.jpg"
-        }, {
-            "title": "M.S. Dhoni: The Untold Story",
-            "year": "2016",
-            "genres": [
-                "Biography",
-                "Drama",
-                "Sport"
-            ],
-            "contentRating": "",
-            "duration": "184 Mins",
-            "releaseDate": "2016-09-30",
-            "averageRating": 0,
-            "originalTitle": "",
-            "seats": "100",
-            "timing": "12pm - 3pm",
-            "storyline": "Mahendra Singh Dhoni is a goalkeeper in school football team.Bannerjee a school cricket coach asks him to join his cricket team and practice daily with him for two hours time passes and he becomes a big state level cricketer but for a long time his luck doesn't favor him to become a member of Indian Cricket team.Dhoni takes up a job in Indian Railways as a ticket checker and plays cricket for the railways after long wait of 4 years he gets selected in Indian Cricket team and turns to be one of the best cricketing captains in history of Indian Cricket.                Written by\nalex.mjacko@gmail.com",
-            "actors": [
-                "Disha Patani",
-                "Anupam Kher",
-                "Sushant Singh Rajput"
-            ],
-            "imdbRating": 7.9,
-            "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTY5ODQxMTY3M15BMl5BanBnXkFtZTgwOTA3NTA4OTE@._V1_SY500_CR0,0,346,500_AL_.jpg"
-        }
-    ]
+	"upcoming": [{
+		"id": "1",
+		"title": "Game Night",
+		"year": "2018",
+		"genres": [
+			"Action",
+			"Comedy",
+			"Crime"
+		],
+		"poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
+		"contentRating": "11",
+		"duration": "PT100M",
+		"releaseDate": "2018-02-28",
+		"averageRating": 0,
+		"originalTitle": "",
+		"storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+		"actors": [
+			"Rachel McAdams",
+			"Jesse Plemons",
+			"Jason Bateman"
+		],
+		"imdbRating": "",
+		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+	}],
+
+	"movies": [{
+		"title": "Dangal",
+		"year": "2016",
+		"genres": [
+			"Action",
+			"Biography",
+			"Drama"
+		],
+		"contentRating": "",
+		"duration": "161  Mins",
+		"releaseDate": "2016-12-23",
+		"averageRating": 0,
+		"originalTitle": "",
+		"seats": "100",
+		"timing": "12pm - 3pm",
+		"storyline": "Biopic of Mahavir Singh Phogat, who taught wrestling to his daughters Babita Kumari and Geeta Phogat. Geeta Phogat was India's first female wrestler to win at the 2010 Commonwealth Games, where she won the gold medal (55 kg) while her sister Babita Kumari won the silver (52 kg).                Written by\nDibyayan_Chakravorty",
+		"actors": [
+			"Aamir Khan",
+			"Sakshi Tanwar",
+			"Fatima Sana Shaikh"
+		],
+		"imdbRating": 8.9,
+		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4MzQzMzM2Nl5BMl5BanBnXkFtZTgwMTQ1NzU3MDI@._V1_SY500_CR0,0,356,500_AL_.jpg"
+	}, {
+		"title": "Kapoor & Sons",
+		"year": "2016",
+		"genres": [
+			"Comedy",
+			"Drama",
+			"Romance"
+		],
+		"contentRating": "",
+		"duration": "132  Mins",
+		"releaseDate": "2016-03-17",
+		"averageRating": 0,
+		"originalTitle": "",
+		"seats": "100",
+		"timing": "12pm - 3pm",
+		"storyline": "A story revolving around a dysfunctional family of 2 brothers who visit their family and discover that their parents marriage is on the verge of collapse,the family is undergoing a financial crunch and much more as the drama unfolds.",
+		"actors": [
+			"Sidharth Malhotra",
+			"Fawad Khan",
+			"Alia Bhatt"
+		],
+		"imdbRating": 7.8,
+		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE4NDk4MTIwNl5BMl5BanBnXkFtZTgwNDEwODI5NzE@._V1_SY500_SX350_AL_.jpg"
+	}, {
+		"title": "Airlift",
+		"year": "2016",
+		"genres": [
+			"Action",
+			"Drama",
+			"History"
+		],
+		"contentRating": "",
+		"duration": "130 Mins",
+		"releaseDate": "2016-01-22",
+		"averageRating": 0,
+		"originalTitle": "",
+		"seats": "100",
+		"timing": "12pm - 3pm",
+		"storyline": "It is in this scenario that Ranjit Katyal (played by Akshay Kumar), a wealthy and powerful Indian businessman, who has always seen himself as a Kuwaiti, rather than an Indian, realizes that he no longer wields any influence on the Iraqis, and that he and his family are in as much danger as anyone else. Ranjit unknowingly becomes the man who all 170,000 Indians look up to for getting them out safely from Kuwait. Airlift is the story of Indians stranded in Kuwait during this traumatic time. A story of how they, with the help of Ranjit Katyal, managed to survive the Iraqi invasion, and against all odds traveled a thousand kilometers across the border into Amman, Jordan. From Amman, 170,000 Indians were brought home by the largest and the most successful evacuation ever attempted by any country, in the history of the world. Over 59 days, the Indian government systematically flew over 488 Air India commercial flights into a war zone to evacuate all 170,000 Indians and safely bring them ...                Written by\nT-Series",
+		"actors": [
+			"Akshay Kumar",
+			"Nimrat Kaur",
+			"Kumud Mishra"
+		],
+		"imdbRating": 8.3,
+		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BZGE1ZTZhNmQtYzhmNC00MjE4LTg4NDUtY2I4N2Y3OTgwZjljXkEyXkFqcGdeQXVyMTExNDQ2MTI@._V1_SY435_SX300_AL_.jpg"
+	}, {
+		"title": "M.S. Dhoni: The Untold Story",
+		"year": "2016",
+		"genres": [
+			"Biography",
+			"Drama",
+			"Sport"
+		],
+		"contentRating": "",
+		"duration": "184 Mins",
+		"releaseDate": "2016-09-30",
+		"averageRating": 0,
+		"originalTitle": "",
+		"seats": "100",
+		"timing": "12pm - 3pm",
+		"storyline": "Mahendra Singh Dhoni is a goalkeeper in school football team.Bannerjee a school cricket coach asks him to join his cricket team and practice daily with him for two hours time passes and he becomes a big state level cricketer but for a long time his luck doesn't favor him to become a member of Indian Cricket team.Dhoni takes up a job in Indian Railways as a ticket checker and plays cricket for the railways after long wait of 4 years he gets selected in Indian Cricket team and turns to be one of the best cricketing captains in history of Indian Cricket.                Written by\nalex.mjacko@gmail.com",
+		"actors": [
+			"Disha Patani",
+			"Anupam Kher",
+			"Sushant Singh Rajput"
+		],
+		"imdbRating": 7.9,
+		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTY5ODQxMTY3M15BMl5BanBnXkFtZTgwOTA3NTA4OTE@._V1_SY500_CR0,0,346,500_AL_.jpg"
+	}]
+
 }
