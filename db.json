@@ -23,18 +23,17 @@
 		"imdbRating": "",
 		"posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
 	}],
-	events": [{
+	"events": [{
 		"id": "1",
 		"title": "Hiltop Party",
 		"releaseDate": "2021-12-31",
 		"posterurl": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-hilltop-goa-new-years-eve-2021-2022-0-2021-7-19-t-16-14-5.jpg"
-		},
-		{
+	}, {
 		"id": "2",
 		"title": "Hilltop Sunday Halloween Ft Imagine Mars",
 		"releaseDate": "2021-1-28",
 		"posterurl": "https://in.bmscdn.com/nmcms/events/banner/desktop/media-desktop-hilltop-sunday-halloween-ft-imagine-mars-0-2021-10-26-t-10-41-26.jpg"
-		}],
+	}],
 	"movies": [{
 		"title": "Dangal",
 		"year": "2016",
