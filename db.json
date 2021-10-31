@@ -92,73 +92,30 @@
             "imdbRating": 7.9,
             "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BOTY5ODQxMTY3M15BMl5BanBnXkFtZTgwOTA3NTA4OTE@._V1_SY500_CR0,0,346,500_AL_.jpg"
         }
-    ]
+    ],
     "upcoming": [{
-                "id": "1",
-                "title": "Game Night",
-                "year": "2018",
-                "genres": [
-                    "Action",
-                    "Comedy",
-                    "Crime"
-                ],
-                "poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
-                "contentRating": "11",
-                "duration": "PT100M",
-                "releaseDate": "2018-02-28",
-                "averageRating": 0,
-                "originalTitle": "",
-                "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
-                "actors": [
-                    "Rachel McAdams",
-                    "Jesse Plemons",
-                    "Jason Bateman"
-                ],
-                "imdbRating": "",
-                "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
-            }, {
-                "id": "2",
-                "title": "Area X: Annihilation",
-                "year": "2018",
-                "genres": [
-                    "Adventure",
-                    "Drama",
-                    "Fantasy"
-                ],
-                "poster": "MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SY500_CR0,0,320,500_AL_.jpg",
-                "contentRating": "R",
-                "duration": "",
-                "releaseDate": "2018-02-23",
-                "averageRating": 0,
-                "originalTitle": "Annihilation",
-                "storyline": "A biologist's husband disappears. She puts her name forward for an expedition into an environmental disaster zone, but does not find what she's expecting. The expedition team is made up of the biologist, an anthropologist, a psychologist, a surveyor, and a linguist.",
-                "actors": [
-                    "Tessa Thompson",
-                    "Jennifer Jason Leigh",
-                    "Natalie Portman"
-                ],
-                "imdbRating": "",
-                "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2Mjc2NzYxNl5BMl5BanBnXkFtZTgwMTA2OTA1NDM@._V1_SY500_CR0,0,320,500_AL_.jpg"
-            }, {
-                "id": "3",
-                "title": "Hannah",
-                "year": "2017",
-                "genres": [
-                    "Drama"
-                ],
-                "poster": "MV5BNWJmMWIxMjQtZTk0Mi00YTE0LTkyNzAtYzQxYjcwYjE4ZDk2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SY500_SX350_AL_.jpg",
-                "contentRating": "",
-                "duration": "PT95M",
-                "releaseDate": "2018-01-24",
-                "averageRating": 0,
-                "originalTitle": "",
-                "storyline": "Intimate portrait of a woman drifting between reality and denial when she is left alone to grapple with the consequences of her husband's imprisonment.",
-                "actors": [
-                    "Charlotte Rampling",
-                    "Andr\u00e9 Wilms",
-                    "St\u00e9phanie Van Vyve"
-                ],
-                "imdbRating": 6.5,
-                "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BNWJmMWIxMjQtZTk0Mi00YTE0LTkyNzAtYzQxYjcwYjE4ZDk2XkEyXkFqcGdeQXVyMTc4MzI2NQ@@._V1_SY500_SX350_AL_.jpg"
-            }]
+            "id": "1",
+            "title": "Game Night",
+            "year": "2018",
+            "genres": [
+                "Action",
+                "Comedy",
+                "Crime"
+            ],
+            "poster": "MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg",
+            "contentRating": "11",
+            "duration": "PT100M",
+            "releaseDate": "2018-02-28",
+            "averageRating": 0,
+            "originalTitle": "",
+            "storyline": "A group of friends who meet regularly for game nights find themselves trying to solve a murder mystery.",
+            "actors": [
+                "Rachel McAdams",
+                "Jesse Plemons",
+                "Jason Bateman"
+            ],
+            "imdbRating": "",
+            "posterurl": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQxMDE5NDg0NV5BMl5BanBnXkFtZTgwNTA5MDE2NDM@._V1_SY500_CR0,0,337,500_AL_.jpg"
+        }
+    ]
 }
